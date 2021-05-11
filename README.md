@@ -1,0 +1,1 @@
+# maven-module-parent-sample
